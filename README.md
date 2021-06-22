@@ -1,9 +1,9 @@
 Summary
 This program is used to take screenshots using just one
-keystroke which is ` key on the top left hand side of the 
+keystroke which is ~ key on the top left hand side of the 
 keyboard. When the program is in morion it listens to all the
 keyboard activities and takes a screenshot whenever the 
-` key is pressed. If you want to terminate the program
+~ key is pressed. If you want to terminate the program
 press alt + x and the program will stop.
 
 How to use
