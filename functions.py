@@ -35,7 +35,3 @@ def Ts():
     cv2.COLOR_RGB2BGR)
 
     cv2.imwrite(final_name, image)
-    print(nameread)
-
-
-Ts()
