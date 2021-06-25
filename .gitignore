@@ -1,3 +1,4 @@
 *.png
 SavedFiles/
 __pycache__
+logs.dat
