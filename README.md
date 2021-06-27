@@ -1,4 +1,5 @@
 Summary
+
 This program is used to take screenshots using just one
 keystroke which is ~ key on the top left hand side of the 
 keyboard. When the program is in morion it listens to all the
@@ -7,6 +8,7 @@ keyboard activities and takes a screenshot whenever the
 press alt + x and the program will stop.
 
 How to use
+
 1.  Make sure to check if you have the following files
     1a. Python 3 Interpretor
     1b. pyinput
